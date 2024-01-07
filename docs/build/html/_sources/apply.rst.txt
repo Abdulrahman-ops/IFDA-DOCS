@@ -9,6 +9,10 @@
 
 2. يرجى متابعة الفيديو ادناه لتعليمات ملئ الحقول
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/uhQJAZE6KTQ" allowfullscreen></iframe>
+
 تسجيل الدخول الى الحساب
 -------------------------
 
