@@ -11,7 +11,7 @@ import sphinx_minoo_theme
 project = 'IFDA'
 copyright = '2024, Abdulrahman'
 author = 'Abdulrahman'
-release = '0.12323'
+release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
