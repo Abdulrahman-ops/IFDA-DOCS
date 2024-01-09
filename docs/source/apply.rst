@@ -11,7 +11,9 @@
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/uhQJAZE6KTQ" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/" allowfullscreen></iframe>
+
+**:او اتباع الخطوات الاتية**
 
 تسجيل الدخول الى الحساب وكيفية تغيير كلمة المرور
 ----------------------------------------------------

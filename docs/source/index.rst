@@ -22,9 +22,3 @@ Welcome to IFDA's documentation!
    others
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

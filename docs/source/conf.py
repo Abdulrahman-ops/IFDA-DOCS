@@ -28,6 +28,7 @@ language = 'ar'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_minoo_theme'
+
 html_theme_path = [sphinx_minoo_theme.get_html_theme_path()]
 
 html_static_path = ['_static']
