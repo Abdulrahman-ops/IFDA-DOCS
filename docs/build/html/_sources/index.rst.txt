@@ -1,0 +1,30 @@
+.. IFDA documentation master file, created by
+   sphinx-quickstart on Thu Jan  4 09:39:51 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to IFDA's documentation!
+================================
+
+نظام التسجيل الالكتروني لقسم التسجيل في دائرة الامور الفنية التابعة لوزارة الصحة, ويقدم النظام طرق عمل سلسة تسهل من خلالها عملية تقديم ومتابعة معاملات تسجيل المستحضرات والمستلزمات الطبية من قبل المكاتب العلمية والشركات. ويقدم اضافة الى ذلك هيكلية عمل واضحة للجان المتابعة والتسجيل عن طريق واجههات الكترونية تسهل عملية مراجعة وتدقيق المعاملات بالاضافة الى التواصل وتبليغ صاحب المعاملة في حالة وجود نقوصات او اخطاء اثناء التقديم.
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   how_it_work
+   apply
+   company
+   product
+   others
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
