@@ -15,7 +15,7 @@
 
 .. image:: images/offic-apply/offic-info.png
 
-.. note:: ملاحظات حول ملئ معلومات المكتب
+.. warning:: ملاحظات حول ملئ معلومات المكتب
 
    1. 
 
