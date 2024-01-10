@@ -86,6 +86,103 @@
 
 .. image:: ../images/company/create.png
 
+8. فيتم بدء المعاملة كما موضح ادناه:
+
+.. image:: ../images/company/phr-create.png
+
+.. note::
+    الصورة اعلاه هية مثال لموقع تصنيعي دوائي وقد ترى عدة اختلافات لديك في الاسم وعدد القوائم حسب نوع الموقع
+
+    ونلاحظ ايضا تغيير حالة المعاملة الى Draft اي انه تم بدء المعاملة لغرض اكمال ملئ المعلومات الباقية
+
+    .. image:: ../images/company/phr-status.png
+
+**ثالثا: ملئ قوائم متطلبات المعاملة Cheacklist**:
+
+1. بعد بدء المعاملة نرى قسم قوائم المتطلبات Cheacklist على اليمين قد فتح الدخول له
+
+.. image:: ../images/company/checklist-home.png
+
+.. note::
+    لكل معاملة عدد محدد من قوائم المتطلبات Cheacklist التي يجب ملئها جميعا قبل ارسال المعاملة
+
+    وفي حالة المثال اعلاه عدد القوائم Cheacklist المطلوبة في المعاملة هي 8
+
+        .. image:: ../images/company/check-number.png
+    
+    ويمكن ملاحظة حالة اي Checklist من خلال الركن العلوي الايمن
+
+        .. image:: ../images/company/ch-status.png
+    
+    وتكون الحالة Empty اي لم يتم ملئ القائمة بعد
+
+.. warning::
+    قبل البدء بملئ اي Cheacklist يجب مراعاة ما يلي:
+
+    1. ملئ الحقول المطلوبة ان وجدت
+
+    2. يجب رفع الملف الخاص في ال Cheacklist بصيغة pdf
+
+    3. يجب ان يكون المف المرفوع مختوما ورسميا
+
+    4. ان يكون الملف المقدم يحوي فقط اوراق الملف المخصصة لل Cheacklist
+
+2. نضغط على احد القوائم للبدء وتضهر صفحة القائمة :
+
+    .. image:: ../images/company/Cheacklist-page.png
+
+.. note::
+
+    يمكننا معرفة ال Cheacklist الحالية من خلال
+
+    1. اسم ال Cheaklist:
+
+        .. image:: ../images/company/ch-name.png
+
+    2. او من خلال لون الحد الخارجي للقائمة على اليمين:
+
+        .. image:: ../images/company/ch-shadow.png
+
+3. نقوم بملئ الحقول المطلوبة:
+
+    .. image:: ../images/company/field-save.png
+
+4. ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info:
+
+    .. image:: ../images/company/field.png
+
+.. note::
+
+    في حالة حدوث خطأ في ادخال المعلومات وتم حفظ التقدم فيمكن التعديل على الحقول عن طريق الضغط على Edit:
+
+        .. image:: ../images/company/edit.png
+    
+    ثم تغيير الحقول المطلوبة والضغط على Save Info لحفظ التغييرات الجديدة او الضغط على Cancel لتجاهل التغييرات
+
+        .. image:: ../images/company/cancel-save.png
+
+5. والان نقوم برفع الملف الخاص بهذة القائمة عن طريق النزول لقسم Attachments في اخر الصفحة :
+
+    .. image:: ../images/company/attach.png
+
+6. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع:
+
+    .. image:: ../images/company/upload.png
+
+7. ويضهر الملف بعد رفعه كما موضح ادناه:
+
+    .. image:: ../images/company/upload-show.png
+
+
+
+
+
+
+
+
+
+
+
 
 
 
