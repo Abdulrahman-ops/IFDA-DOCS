@@ -7,8 +7,8 @@
 
 
 
-انواع المعاملات
----------------
+تقديم المعاملات
+----------------
 1. تسجيل موقع تصنيعي جديد:
 
 يتضمن تسجيل موقع تصنيعي جديد تقديم معلومات مفصلة حول الموقع والأنشطة التصنيعية .
@@ -27,18 +27,24 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: خطوات تقديم المعاملات:
+   :caption: خطوات تقديم المعاملات
+   :hidden:
 
    comp/rigester.rst
    comp/re-regester.rst
    comp/Change-info.rst
    comp/add-pl.rst
 
-
+خطوات ما بعد التقديم
+----------------------
 
 .. toctree::
    :maxdepth: 2
-   :caption: خطوات بعد التقديم:
+   :caption: خطوات ما بعد التقديم
+   :hidden:
 
-   comp/review.rst
-   comp/response.rst
+   comp/review
+   comp/response
+
+
+

@@ -23,6 +23,13 @@ exclude_patterns = []
 
 language = 'ar'
 
+html_theme_options = {
+    'logo_only': True
+}
+
+
+html_logo = 'images\IFDA-logo.png'
+
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
