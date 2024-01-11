@@ -1,0 +1,17 @@
+
+html {
+    direction: rtl;
+}
+
+body {
+    text-align: right;
+}
+
+/* Adjustments for RTL */
+.left {
+    float: right;
+}
+
+.right {
+    float: left;
+}
