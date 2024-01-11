@@ -30,6 +30,15 @@ html_theme_options = {
 
 html_logo = 'images\IFDA-logo.png'
 
+html_show_sourcelink = False
+
+html_theme_options = {
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'style_nav_header_background': 'white',
+
+}
+
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
