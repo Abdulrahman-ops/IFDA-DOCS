@@ -50,6 +50,14 @@
    :caption:  معاملات اعادة التسجيل
    :hidden:
 
+   comp/re-rigester/re-rig-PHR.rst
+   comp/re-rigester/re-rig-SHMR.rst
+   comp/re-rigester/re-rig-MLAR.rst
+   comp/re-rigester/re-rig-MER.rst
+   comp/re-rigester/re-rig-MLEAR.rst
+   comp/re-rigester/re-rig-CMPR.rst
+   comp/re-rigester/re-rig-SHMCR.rst
+
 
 
 معاملات تغيير معلومات
