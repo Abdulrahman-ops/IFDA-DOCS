@@ -65,7 +65,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption:  معاملات تغيير معلومات
    :hidden:
 
    comp/Change-info
@@ -79,6 +78,12 @@
    :maxdepth: 2
    :caption:  معاملات اضافة خطوط انتاجية
    :hidden:
+
+   comp/PL/plr
+   comp/PL/naa
+   comp/PL/nae
+
+   
 
 
 
