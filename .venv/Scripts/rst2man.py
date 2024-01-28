@@ -1,4 +1,4 @@
-#!C:\Users\msi\OneDrive\Desktop\IFDA DOCS\.venv\scripts\python.exe
+#!C:\Users\lenovo\Desktop\ifda-docs\IFDA-DOCS\.venv\Scripts\python.exe
 
 # Author:
 # Contact: grubert@users.sf.net

@@ -1,4 +1,4 @@
-#!C:\Users\msi\OneDrive\Desktop\IFDA DOCS\.venv\scripts\python.exe
+#!C:\Users\lenovo\Desktop\ifda-docs\IFDA-DOCS\.venv\Scripts\python.exe
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
 #
