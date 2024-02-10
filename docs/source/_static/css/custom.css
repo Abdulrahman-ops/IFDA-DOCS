@@ -7,6 +7,13 @@ body {
     text-align: right;
 }
 
+img{
+    border: 1px solid #000000;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
 /* Adjustments for RTL */
 .left {
     float: right;
@@ -14,4 +21,9 @@ body {
 
 .right {
     float: left;
+}
+
+hr{
+    background-color: black;
+    size: 10px;
 }
