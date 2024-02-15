@@ -176,7 +176,7 @@
 
 
 
-**ثالثا: ملئ قوائم متطلبات المعاملة Cheacklist**:
+**ثالثا: ملئ قوائم متطلبات المعاملة checklist**:
 
 1. بعد التأكد من المعلومات و الضغط على Create يستطيع المكتب العلمي البدء برفع متطلبات ال checklist
 
@@ -185,16 +185,16 @@
 
 
 .. warning::
-    قبل البدء بملئ اي Cheacklist يجب مراعاة ما يلي:
+    قبل البدء بملئ اي checklist يجب مراعاة ما يلي:
 
     1. ملئ الحقول المطلوبة ان وجدت
 
-    2. يجب رفع الملف الخاص في ال Cheacklist بصيغة pdf
+    2. يجب رفع الملف الخاص في ال checklist بصيغة pdf
 
-    3. ان يكون الملف المقدم يحتوي فقط اوراق الملف المخصصة لل Cheacklist
+    3. ان يكون الملف المقدم يحتوي فقط اوراق الملف المخصصة لل checklist
 
 
-**كيفية ملئ الحقول ورفع الملفات لل Cheacklist وطريقة حفظ التقدم**:
+**كيفية ملئ الحقول ورفع الملفات لل checklist وطريقة حفظ التقدم**:
 
 
 * نضغط على احد المتطلبات للبدء بملؤها وتشمل المتطلبات :
@@ -265,9 +265,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -347,9 +347,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -389,10 +389,10 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -452,9 +452,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -484,15 +484,15 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
@@ -500,12 +500,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -526,15 +526,15 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
@@ -542,12 +542,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -595,9 +595,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -646,9 +646,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -700,9 +700,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -772,15 +772,15 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
@@ -788,12 +788,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -848,9 +848,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -904,9 +904,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -955,9 +955,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1005,9 +1005,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1056,9 +1056,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1106,9 +1106,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1157,9 +1157,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1216,9 +1216,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1243,15 +1243,15 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
@@ -1259,12 +1259,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -1311,9 +1311,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1362,9 +1362,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1412,9 +1412,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1462,9 +1462,9 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
 .. image:: ../../images/company/save-chck.png
 
@@ -1491,15 +1491,15 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
@@ -1507,12 +1507,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -1548,7 +1548,7 @@
 **رابعا) التاكد من المعلومات وارسال المعاملة:**
 
 
-1. بعد ملئ كافة ال Cheacklist وتحول الحالة الى  Draft يمكن الان ارسال المعاملة وعمل Submit.
+1. بعد ملئ كافة ال checklist وتحول الحالة الى  Draft يمكن الان ارسال المعاملة وعمل Submit.
 
 
 .. warning::
