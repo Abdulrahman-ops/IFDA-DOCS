@@ -57,29 +57,27 @@
 5. فيتم انشاء معاملة في النظام الالكتروني.
 
     
-**ثالثا: ملئ قوائم متطلبات المعاملة Cheacklist**:
+**ثالثا: ملئ قوائم متطلبات المعاملة checklist**:
 
-1. بعد انشاء المعاملة يستطيع المكتب العلمي المباشرة بملئ متطلبات المعاملة Cheacklist. 
+1. بعد انشاء المعاملة يستطيع المكتب العلمي المباشرة بملئ متطلبات المعاملة checklist. 
 
-.. image:: ../images/company/checklist-home-phr.png
+.. image:: ../../images/company/checklist-home-phr.png
 
 
 .. warning::
-    قبل البدء بملئ اي Cheacklist يجب مراعاة ما يلي:
+    قبل البدء بملئ اي checklist يجب مراعاة ما يلي:
 
     1. ملئ الحقول المطلوبة ان وجدت
 
-    2. يجب رفع الملف الخاص في ال Cheacklist بصيغة pdf
+    2. يجب رفع الملف الخاص في ال checklist بصيغة pdf
 
-    3. ان يكون الملف المقدم يحوي فقط اوراق الملف المخصصة لل Cheacklist
+    3. ان يكون الملف المقدم يحوي فقط اوراق الملف المخصصة لل checklist
 
 
-**كيفية ملئ الحقول ورفع الملفات لل Cheacklist وطريقة حفظ التقدم**:
+**كيفية ملئ الحقول ورفع الملفات لل checklist وطريقة حفظ التقدم**:
 
 
 * نضغط على احد المتطلبات للبدء بملؤها وتشمل المتطلبات :
-
-
 
 
 1. رسالة التخويل Authorization letter: ويجب ان تكون نسخة مصدقة وقانونية صادرة من دولة الموقع التصنيعي.
@@ -96,7 +94,7 @@
 
 **وتشمل الحقول:**
 
-.. image:: ../images/company/al-fields.png
+.. image:: ../../images/company/al-fields.png
 
 1. تاريخ اصدار رسالة التخويل Issuing Date.
 
@@ -108,36 +106,36 @@
 
 ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
 
-    .. image:: ../images/company/field.png
+    .. image:: ../../images/company/field.png
 
 
 
 في حالة حدوث خطأ في ادخال المعلومات وتم حفظ التقدم فيمكن التعديل على الحقول عن طريق الضغط على Edit:
 
-.. image:: ../images/company/edit.png
+.. image:: ../../images/company/edit.png
     
 ثم تغيير الحقول المطلوبة والضغط على Save Info لحفظ التغييرات الجديدة او الضغط على Cancel لتجاهل التغييرات
 
-.. image:: ../images/company/cancel-save.png
+.. image:: ../../images/company/cancel-save.png
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
   
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 في حالة رغبتك بالتاكد من الملف فيمكنك:
 
-.. image:: ../images/company/folder-icon.png
+.. image:: ../../images/company/folder-icon.png
 
 عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
          
@@ -151,11 +149,11 @@
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -164,7 +162,7 @@
 
 
 
-2. فورمة التسجيل Registration form Appendix تحوي ختم وتوقيع مدير الموقع او الشركة على جميع الصفحات:
+2. استمارة التسجيل Registration form Appendix تحوي ختم وتوقيع مدير الموقع او الشركة على جميع الصفحات:
 
 **A) ملئ حقول ال Checklist:**
 
@@ -174,7 +172,7 @@
 
 ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
 
-    .. image:: ../images/company/field.png
+    .. image:: ../../images/company/field.png
 
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
@@ -182,19 +180,19 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
 في حالة رغبتك بالتاكد من الملف فيمكنك:
 
-.. image:: ../images/company/folder-icon.png
+.. image:: ../../images/company/folder-icon.png
 
 عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
          
@@ -209,12 +207,12 @@
     <hr>
 
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -223,7 +221,7 @@
 
 
 
-3. شهادة التصنيع الجيد Good Manufacturing Practice:
+3. شهادة ضمان الجودة Quality assurance certificate فعالة ومصدقة:
 
 
 **A) ملئ حقول ال Checklist:**
@@ -232,21 +230,17 @@
 نقوم بملئ كافة الحقول الاتية:
 
 
-.. image:: ../images/company/gmp-fields.png
+.. image:: ../../images/company/qac-fields.png
 
 
-1. بلد المنشأ لل GMP.
+1. بلد المنشأ لل QAC.
 
-2. الجهه المصدرة لل GMP.
+2. الجهه المصدرة لل QAC.
 
-3. تاريخ اصدار ال GMP.
-
-4. تاريخ انتهاء صلاحية ال GMP.
+3. تاريخ اصدار ال QAC.
 
 
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
 
-    .. image:: ../images/company/field.png
 
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
@@ -254,7 +248,7 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
@@ -262,30 +256,19 @@
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
-في حالة رغبتك بالتاكد من الملف فيمكنك:
-
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
 
 .. raw:: html
 
     <hr>
          
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -293,7 +276,7 @@
     <hr>
 
 
-4. ملف الموقع التصنيعي Site Master File مختوم على جميع الصفحات:
+4.  ملف دليل الجودة Quality Manual file او ملف الموقع التصنيعي Site Master File يحوي على ختم على جميع الصفحات:
 
 **A) ملئ حقول ال Checklist:**
 
@@ -304,47 +287,32 @@
 
 
 
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
-
-    .. image:: ../images/company/field.png
-
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
   
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
-في حالة رغبتك بالتاكد من الملف فيمكنك:
-
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
 
 .. raw:: html
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
 .. raw:: html
@@ -360,19 +328,15 @@
 
 
 
-.. image:: ../images/company/smf-fields.png
+.. image:: ../../images/company/coi-fields.png
 
 
 1. تاريخ التأسيس.
 
-2. الجهة المصدرة لل SMF.
+2. الجهة المصدرة لل COI.
 
-3. تاريخ اصدار ال SMF.
+3. تاريخ اصدار ال COI.
 
-
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
-
-    .. image:: ../images/company/field.png
 
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
@@ -380,39 +344,28 @@
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
-في حالة رغبتك بالتاكد من الملف فيمكنك:
-
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
 
 .. raw:: html
 
     <hr>
          
 
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 .. raw:: html
 
@@ -426,189 +379,214 @@
 هذا ال Checklist لا يحوي على حقول
 
 
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
-
-    .. image:: ../images/company/field.png
-
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
   
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
-في حالة رغبتك بالتاكد من الملف فيمكنك:
 
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
 
 .. raw:: html
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 .. raw:: html
 
     <hr>
 
 
-7. شهادة المستحضر الدوائي Certificate of Pharmaceutical Product:
+
+
+7. شهادة البيع الحر Free Sell Certificate:
 
 **A) ملئ حقول ال Checklist:**
 
-نقوم بملئ كافة الحقول الاتية:
+لا يحوي هذا المتطلب على حقول
 
-
-.. image:: ../images/company/cpp-fields.png
-
-
-1. بلد المنشأ لل CPP.
-
-2. الجهه المصدرة لل CPP.
-
-3. تاريخ اصدار ال CPP.
-
-4. تاريخ انتهاء صلاحية ال CPP.
-
-
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
-
-    .. image:: ../images/company/field.png
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
   
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
+    .. image:: ../../images/company/upload-show.png
 
-في حالة رغبتك بالتاكد من الملف فيمكنك:
-
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
 
 .. raw:: html
 
     <hr>
          
-**C) حفظ ال Cheacklist**
+**C) حفظ ال checklist**
 
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
 
-.. image:: ../images/company/save-chck.png
+.. image:: ../../images/company/save-chck.png
 
 
-**يمكننا اضافة cpp اخر حسب المعاملة او المستحضر عن طريق الضغط على ايقونة Add Another Cpp في اعلى الصفحة.**
-
-.. image:: ../images/company/add-other-cpp.png
 
 
 .. raw:: html
 
     <hr>
 
-
-
-8. رسالة الزيارة Invitation Letter يجب طباعة استمارة رسالة الدعوة وتوقيعها وختمها بالختم الحي واعادة رفعها للنظام وتسليمها بنسخة ورقية مع الملف:
+8. دليل المنتج Catalogue:
 
 **A) ملئ حقول ال Checklist:**
 
-نقوم بملئ كافة الحقول الاتية:
+لا يحوي هذا المتطلب على حقول
 
-
-.. image:: ../images/company/inv-field.png
-
-
-1. قائمة المنتجات.
-
-2. عدد ايام السفر.
-
-
-ثم نقوم بحفظ معلومات الحقول بعد ملئ كل الحقول المطلوبة عن طريق الضغط على زر Save Info في بداية الصفحة:
-
-    .. image:: ../images/company/field.png
 
 **B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
   
 
 1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
 
-    .. image:: ../images/company/attach.png
+    .. image:: ../../images/company/attach.png
 
 2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
 
-    .. image:: ../images/company/upload.png
+    .. image:: ../../images/company/upload.png
 
 3. ويضهر الملف بعد رفعه كما موضح ادناه:
 
-    .. image:: ../images/company/upload-show.png
-
-في حالة رغبتك بالتاكد من الملف فيمكنك:
-
-.. image:: ../images/company/folder-icon.png
-
-عرض الملف المرفوع عن طريق الضغط على الايقونة رقم 1.
-         
-واذا اردت تنزيل الملف نضغط على الايقونة رقم 2 .
-         
-واذا اردت حذف الملف فنضغط على الايقونة رقم 3 (لا يمكن تعديل او حذف الملف بعد ارسال المعاملة).
-         
-واذا اردت اضافة ملاحظة حول الملف نضغط الايقونة رقم 4.
-
-.. raw:: html
-
-    <hr>
-         
-**C) حفظ ال Cheacklist**
-
-بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال cheacklist :
-
-.. image:: ../images/company/save-chck.png
+    .. image:: ../../images/company/upload-show.png
 
 
 .. raw:: html
 
     <hr>
+         
+**C) حفظ ال checklist**
+
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
+
+.. image:: ../../images/company/save-chck.png
+
+
+
+
+.. raw:: html
+
+    <hr>
+
+
+9. شهادة التسعيرات Invoice نسخة من شهادة التسعيرة مختومة لدولتين على الاقل:
+
+**A) ملئ حقول ال Checklist:**
+
+لا يحوي هذا المتطلب على حقول
+
+
+**B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
+
+.. note::
+    يجب رفع ملفين على الاقل
+  
+
+1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
+
+    .. image:: ../../images/company/attach.png
+
+2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
+
+    .. image:: ../../images/company/upload.png
+
+3. ويضهر الملف بعد رفعه كما موضح ادناه:
+
+    .. image:: ../../images/company/upload-show.png
+
+
+.. raw:: html
+
+    <hr>
+         
+**C) حفظ ال checklist**
+
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
+
+.. image:: ../../images/company/save-chck.png
+
+
+
+
+.. raw:: html
+
+    <hr>
+
+
+10. استمارة التسجيل للأجهزة الطبية والأطقم التشخيصية المخبرية Registration form For Medical Appliances & Lab Diagnostic kits تحوي ختم وتوقيع مدير الموقع او الشركة على جميع الصفحات:
+
+**A) ملئ حقول ال Checklist:**
+
+
+نقوم بملئ كافة الحقول المطلوبة
+
+
+
+**B) رفع الملف (ويجب ان يكون بصيغة pdf)**:
+  
+
+1. لكي نقوم برفع الملف الخاص بهذة القائمة نقوم بالنزول لقسم Attachments في اخر الصفحة :
+
+    .. image:: ../../images/company/attach.png
+
+2. نقوم بالضغط على ايقونة الرفع واختيار ملف للرفع (يجب ان يكون الملف بصيغة pdf):
+
+    .. image:: ../../images/company/upload.png
+
+3. ويضهر الملف بعد رفعه كما موضح ادناه:
+
+    .. image:: ../../images/company/upload-show.png
+
+
+.. raw:: html
+
+    <hr>
+
+
+**C) حفظ ال checklist**
+
+
+بعد رفع الملف وملئ الحقول ان وجدت نعود الى بداية الصفحة ونضغط على save لغرض حفظ ال checklist :
+
+.. image:: ../../images/company/save-chck.png
+
+
+.. raw:: html
+
+    <hr>
+
+
+
     
 **رابعا) التاكد من المعلومات وارسال المعاملة:**
 
 
-1. بعد ملئ كافة ال Cheacklist وتحول الحالة الى  Draft يمكن الان ارسال المعاملة وعمل Submit.
+1. بعد ملئ كافة ال checklist وتحول الحالة الى  Draft يمكن الان ارسال المعاملة وعمل Submit.
 
 
 .. warning::
@@ -617,14 +595,14 @@
 
 2. نضغط على زر Submit  في واجهه المعاملة الرئيسية لغرض ارسال المعاملة:
 
-.. image:: ../images/company/submit.png
+.. image:: ../../images/company/submit.png
 
 .. warning::
     في حالة وجود خطأ في اختيار نوع المعاملة او شيئ مشابه يمكن اهمال المعاملة الحالية عن طريق الضغط على زر Neglect.
 
 3. لتاكيد عملية الارسال نرى حالة المعاملة الرئيسية وحالة كل Cheaklist  قد تحولت الى Submitted اي تم الارسال بنجاح.
 
-.. image:: ../images/company/f-submit.png
+.. image:: ../../images/company/f-submit.png
 
-4. بعد الانتهاء من الارسال يجب مراجعة وزارة الصحة/ دائرة الامور الفنية/ قسم التسجيل  مع جلب الملفات المصدقة والاصلية المطلوبة وايضا لدفع فاتورة الاستمارة الالكترونية.
+4. بعد الانتهاء من الارسال يجب مراجعة وزارة الصحة/ دائرة الامور الفنية/ قسم التسجيل  مع جلب الملفات المصدقة والاصلية المطلوبة وايضا لدفع فاتورة الخدمة الالكترونية.
 
